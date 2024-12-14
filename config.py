@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_SMARTY_PRINCE_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Akeno_Himejima87")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "@Prince1_music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Booldxmusic_bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "prince")
 # ---------------------------------------------------------
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002392274240))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002401739175))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 6430077205))
+OWNER_ID = int(getenv("OWNER_ID", 7526369190))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/l_ABOUT_PRINCE_l")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/l_ABOUT_PRINCE_l")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/The_Revengers_Network")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/anime_x_aegis")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
